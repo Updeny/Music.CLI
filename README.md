@@ -1,1 +1,1 @@
-# SoundCloud-Spotify-Support
+# Music.CLI
